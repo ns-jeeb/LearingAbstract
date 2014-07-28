@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="dog_names">
+       <item> Shaperd </item>
+       <item> Sparky</item>
+       <item> addie</item>
+       <item> halo  </item>
+       <item> ailey </item>
+       <item> Lola  </item>
+       <item> Zoe   </item>
+       <item> Abby  </item>
+       <item> Ginger</item>
+       <item> Roxy  </item>
+       <item> Gracie</item>
+       <item> Coco  </item>
+       <item> Sasha </item>
+       <item> Lily  </item>
+       <item> Angel </item>
+       <item> Princess</item>
+       <item> Emma   </item>
+       <item> Annie  </item>
+       <item> Rosie  </item>
+       <item> Ruby   </item>
+       <item> Lady   </item>
+       <item> Missy  </item>
+       <item> Lilly  </item>
+       <item> Mia    </item>
+       <item> Katie  </item>
+       <item> Zoey   </item>
+       <item> Madison</item>
+       <item> Stella </item>
+       <item> Penny  </item>
+       <item> Belle  </item>
+       <item> Casey  </item>
+       <item> Samantha</item>
+       <item> Holly  </item>
+       <item> Lexi   </item>
+       <item> Lulu   </item>
+       <item> Brandy </item>
+       <item> Jasmine</item>
+       <item> Shelby </item>
+       <item> Sandy  </item>
+       <item> Roxie  </item>
+       <item> Pepper </item>
+       <item> Heidi  </item>
+       <item> Luna   </item>
+       <item> Dixie  </item>
+       <item> Honey  </item>
+       <item> Dakota </item>
+       <item> Bailey </item>
+       <item> Charlie</item>
+       <item> Tucker </item>
+       <item> Murphy </item>
+       <item> Lucky  </item>
+       <item> Oliver </item>
+       <item> Sam    </item>
+       <item> Oscar  </item>
+       <item> Teddy  </item>
+       <item> Winston</item>
+       <item> Sammy  </item>
+       <item> Rusty  </item>
+       <item> Shadow </item>
+       <item> Gizmo  </item>
+       <item> Bentley</item>
+       <item> Zeus</item>
+       <item> Jackson</item>
+       <item> Baxter </item>
+       <item> Bandit </item>
+       <item> Gus    </item>
+       <item> Samson</item>
+       <item> Milo   </item>
+       <item> Rudy   </item>
+       <item> Louie  </item>
+       <item> Hunter  </item>
+
+    </string-array>
+</resources>
