@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="animal_names">
+
+        <item >Aardwolf</item>
+        <item >Admiral, indian red</item>
+        <item >Adouri (unidentified)</item>
+        <item >African black crake</item>
+        <item >African buffalo</item>
+        <item >African bush squirrel</item>
+        <item >African clawless otter</item>
+        <item >African darter</item>
+        <item >African elephant</item>
+        <item >African fish eagle</item>
+        <item >African ground squirrel (unidentified)</item>
+        <item >African jacana</item>
+        <item >African lion</item>
+        <item >African lynx</item>
+        <item >African pied wagtail</item>
+        <item >African polecat</item>
+        <item >African porcupine</item>
+        <item >African red-eyed bulbul</item>
+        <item >African skink</item>
+        <item >African snake (unidentified)</item>
+        <item >African wild cat</item>
+        <item >African wild dog</item>
+        <item >Agama lizard (unidentified)</item>
+        <item >Agile wallaby</item>
+        <item >Agouti</item>
+        <item >Albatross, galapagos</item>
+        <item >Albatross, waved</item>
+        <item >Alligator, american</item>
+        <item >Alligator, mississippi</item>
+        <item >Alpaca</item>
+        <item >Amazon parrot (unidentified)</item>
+        <item >American Virginia opossum</item>
+        <item >American alligator</item>
+        <item >American badger</item>
+        <item >American beaver</item>
+        <item >American bighorn sheep</item>
+        <item >American bison</item>
+        <item >American black bear</item>
+        <item >American buffalo</item>
+        <item >American crow</item>
+        <item >American marten</item>
+        <item >American racer</item>
+        <item >American woodcock</item>
+        <item >Anaconda (unidentified)</item>
+        <item >Andean goose</item>
+        <item >Ant (unidentified)</item>
+        <item >Anteater, australian spiny</item>
+        <item >Anteater, giant</item>
+        <item >Antechinus, brown</item>
+        <item >Antelope ground squirrel</item>
+        <item >Antelope, four-horned</item>
+        <item >Antelope, roan</item>
+        <item >Antelope, sable</item>
+        <item >Arboral spiny rat</item>
+        <item >Arctic fox</item>
+        <item >Arctic ground squirrel</item>
+        <item >Arctic hare</item>
+        <item >Arctic lemming</item>
+        <item >Arctic tern</item>
+        <item >Argalis</item>
+        <item >Armadillo, common long-nosed</item>
+        <item >Armadillo, giant</item>
+        <item >Armadillo, nine-banded</item>
+        <item >Armadillo, seven-banded</item>
+        <item >Asian elephant</item>
+        <item >Asian false vampire bat</item>
+        <item >Asian foreset tortoise</item>
+        <item >Asian lion</item>
+        <item >Asian openbill</item>
+        <item >Asian red fox</item>
+        <item >Asian water buffalo</item>
+        <item >Asian water dragon</item>
+        <item >Asiatic jackal</item>
+        <item >Asiatic wild ass</item>
+        <item >Australian brush turkey</item>
+        <item >Australian magpie</item>
+        <item >Australian masked owl</item>
+        <item >Australian pelican</item>
+        <item >Australian sea lion</item>
+        <item >Australian spiny anteater</item>
+        <item >Avocet, pied</item>
+        <item >Azara's zorro</item>
+
+        <item >Proteles cristatus</item>
+        <item >Vanessa indica</item>
+        <item >unavailable</item>
+        <item >Limnocorax flavirostra</item>
+        <item >Snycerus caffer</item>
+        <item >Paraxerus cepapi</item>
+        <item >Aonyx capensis</item>
+        <item >Anhinga rufa</item>
+        <item >Loxodonta africana</item>
+        <item >Haliaetus vocifer</item>
+        <item >Xerus sp.</item>
+        <item >Actophilornis africanus</item>
+        <item >Panthera leo</item>
+        <item >Felis caracal</item>
+        <item >Motacilla aguimp</item>
+        <item >Ictonyx striatus</item>
+        <item >Hystrix cristata</item>
+        <item >Pycnonotus nigricans</item>
+        <item >Mabuya spilogaster</item>
+        <item >unavailable</item>
+        <item >Felis silvestris lybica</item>
+        <item >Lycaon pictus</item>
+        <item >Agama sp.</item>
+        <item >Macropus agilis</item>
+        <item >Dasyprocta leporina</item>
+        <item >Diomedea irrorata</item>
+        <item >Diomedea irrorata</item>
+        <item >Alligator mississippiensis</item>
+        <item >Alligator mississippiensis</item>
+        <item >Lama pacos</item>
+        <item >Amazona sp.</item>
+        <item >Didelphis virginiana</item>
+        <item >Alligator mississippiensis</item>
+        <item >Taxidea taxus</item>
+        <item >Castor canadensis</item>
+        <item >Ovis canadensis</item>
+        <item >Bison bison</item>
+        <item >Ursus americanus</item>
+        <item >Bison bison</item>
+        <item >Corvus brachyrhynchos</item>
+        <item >Martes americana</item>
+        <item >Coluber constrictor</item>
+        <item >Scolopax minor</item>
+        <item >Eunectes sp.</item>
+        <item >Chloephaga melanoptera</item>
+        <item >unavailable</item>
+        <item >Tachyglossus aculeatus</item>
+        <item >Myrmecophaga tridactyla</item>
+        <item >Antechinus flavipes</item>
+        <item >Ammospermophilus nelsoni</item>
+        <item >Tetracerus quadricornis</item>
+        <item >Hippotragus equinus</item>
+        <item >Hippotragus niger</item>
+        <item >Echimys chrysurus</item>
+        <item >Alopex lagopus</item>
+        <item >Spermophilus parryii</item>
+        <item >Lepus arcticus</item>
+        <item >Dicrostonyx groenlandicus</item>
+        <item >Sterna paradisaea</item>
+        <item >Ovis ammon</item>
+        <item >Dasypus novemcinctus</item>
+        <item >Priodontes maximus</item>
+        <item >Dasypus novemcinctus</item>
+        <item >Dasypus septemcincus</item>
+        <item >Elephas maximus bengalensis</item>
+        <item >Megaderma spasma</item>
+        <item >Manouria emys</item>
+        <item >Panthera leo persica</item>
+        <item >Anastomus oscitans</item>
+        <item >Vulpes vulpes</item>
+        <item >Bubalus arnee</item>
+        <item >Physignathus cocincinus</item>
+        <item >Canis aureus</item>
+        <item >Equus hemionuss</item>
+        <item >Equus hemionuss</item>
+        <item >Alectura lathami</item>
+        <item >Gymnorhina tibicen</item>
+        <item >Tyto novaehollandiae</item>
+        <item >Pelecanus conspicillatus</item>
+        <item >Neophoca cinerea</item>
+        <item >Tachyglossus aculeatus</item>
+        <item >Recurvirostra avosetta</item>
+        <item >Pseudalopex gymnocercus</item>
+        <item >Papio ursinus</item>
+        <item >Theropithecus gelada</item>
+        <item >Papio cynocephalus</item>
+        <item >Papio cynocephalus</item>
+        <item >Papio cynocephalus</item>
+        <item >Taxidea taxus</item>
+        <item >Meles meles</item>
+        <item >Meles meles</item>
+        <item >Mellivora capensis</item>
+        <item >Anas bahamensis</item>
+        <item >Haliaeetus leucocephalus</item>
+        <item >Eubalaena australis</item>
+        <item >Mungos mungo</item>
+        <item >Perameles nasuta</item>
+        <item >Isoodon obesulus</item>
+        <item >Isoodon obesulus</item>
+        <item >Cervus duvauceli</item>
+        <item >Lybius torquatus</item>
+        <item >Trachyphonus vaillantii</item>
+        <item >Trachyphonus vaillantii</item>
+        <item >Lorythaixoides concolor</item>
+        <item >Phylurus milli</item>
+        <item >Bucephala clangula</item>
+        <item >Megaderma spasma</item>
+        <item >Myotis lucifugus</item>
+        <item >Pteropus rufus</item>
+        <item >Otocyon megalotis</item>
+        <item >Terathopius ecaudatus</item>
+        <item >Ursus americanus</item>
+        <item >Ursus americanus</item>
+        <item >Ursus arctos</item>
+        <item >Ursus maritimus</item>
+        <item >Melursus ursinus</item>
+        <item >Castor canadensis</item>
+        <item >Castor fiber</item>
+        <item >Castor fiber</item>
+        <item >Castor canadensis</item>
+        <item >Merops sp.</item>
+        <item >Merops nubicus</item>
+        <item >Merops nubicus</item>
+        <item >Merops bullockoides</item>
+        <item >Oryx gazella</item>
+        <item >Gyps bengalensis</item>
+        <item >Macropus rufogriseus</item>
+        <item >Cyrtodactylus louisiadensis</item>
+        <item >Bettongia penicillata</item>
+        <item >unavailable</item>
+        <item >Lorythaixoides concolor</item>
+        <item >Cracticus nigroagularis</item>
+        <item >Fregata magnificans</item>
+        <item >Cracticus nigroagularis</item>
+        <item >Phaethon aethereus</item>
+        <item >Sagittarius serpentarius</item>
+        <item >Bison bison</item>
+        <item >Colobus guerza</item>
+        <item >Ursus americanus</item>
+        <item >Haematopus ater</item>
+        <item >Milvus migrans</item>
+        <item >Diceros bicornis</item>
+        <item >Ateles paniscus</item>
+        <item >Cygnus atratus</item>
+        <item >Aegypius tracheliotus</item>
+        <item >Canis mesomelas</item>
+        <item >Gymnorhina tibicen</item>
+        <item >Cebus apella</item>
+        <item >Parus atricapillus</item>
+        <item >Estrilda erythronotos</item>
+        <item >Lybius torquatus</item>
+        <item >Balearica pavonina</item>
+        <item >Nycticorax nycticorax</item>
+        <item >Pycnonotus barbatus</item>
+        <item >Macropus fuliginosus</item>
+        <item >Mustela nigripes</item>
+        <item >Pycnonotus nigricans</item>
+        <item >Ephippiorhynchus mycteria</item>
+        <item >Odocoileus hemionus</item>
+        <item >Cynomys ludovicianus</item>
+        <item >Climacteris melanura</item>
+        <item >Cracticus nigroagularis</item>
+        <item >Paroaria gularis</item>
+        <item >Himantopus himantopus</item>
+        <item >Agelaius phoeniceus</item>
+        <item >Antilope cervicapra</item>
+        <item >Haematopus ater</item>
+        <item >Vanellus armatus</item>
+        <item >Theropithecus gelada</item>
+        <item >Damaliscus dorcas</item>
+        <item >Uraeginthus angolensis</item>
+        <item >Uraeginthus bengalus</item>
+        <item >Ara ararauna</item>
+        <item >Ara ararauna</item>
+        <item >Ictalurus furcatus</item>
+        <item >Anthropoides paradisea</item>
+        <item >Hymenolaimus malacorhynchus</item>
+        <item >Alopex lagopus</item>
+        <item >Pavo cristatus</item>
+        <item >Coluber constrictor foxii</item>
+        <item >Prionace glauca</item>
+        <item >Uraeginthus angolensis</item>
+        <item >Connochaetus taurinus</item>
+        <item >Uraeginthus angolensis</item>
+        <item >Sula dactylatra</item>
+        <item >Sula nebouxii</item>
+        <item >Tiliqua scincoides</item>
+        <item >Tiliqua scincoides</item>
+        <item >Epicrates cenchria maurus</item>
+        <item >Corallus hortulanus cooki</item>
+        <item >Boa caninus</item>
+        <item >Acrantophis madagascariensis</item>
+        <item >Boa constrictor mexicana</item>
+        <item >Sus scrofa</item>
+        <item >Cochlearius cochlearius</item>
+        <item >Felis rufus</item>
+        <item >Redunca redunca</item>
+        <item >Macaca radiata</item>
+        <item >Damaliscus dorcas</item>
+        <item >Sula dactylatra</item>
+        <item >Sula nebouxii</item>
+        <item >Sula dactylatra</item>
+        <item >Tursiops truncatus</item>
+        <item >Laniarius ferrugineus</item>
+        <item >Pteronura brasiliensis</item>
+        <item >Tapirus terrestris</item>
+        <item >Connochaetus taurinus</item>
+        <item >Mazama gouazoubira</item>
+        <item >Mazama americana</item>
+        <item >Grus rubicundus</item>
+        <item >Pseudoleistes virescens</item>
+        <item >Antechinus flavipes</item>
+        <item >Mazama gouazoubira</item>
+        <item >Cebus apella</item>
+        <item >Hyaena brunnea</item>
+        <item >Lemur fulvus</item>
+        <item >Pelecanus occidentalis</item>
+        <item >Bettongia penicillata</item>
+        <item >Phascogale tapoatafa</item>
+        <item >Bettongia penicillata</item>
+        <item >Snycerus caffer</item>
+        <item >Bison bison</item>
+        <item >Bubalus arnee</item>
+        <item >Bubalus arnee</item>
+        <item >Pycnonotus nigricans</item>
+        <item >Pycnonotus barbatus</item>
+        <item >Pycnonotus nigricans</item>
+        <item >Melophus lathami</item>
+        <item >Laniaurius atrococcineus</item>
+        <item >Manouria emys</item>
+        <item >Manouria emys</item>
+        <item >Speotyte cuniculata</item>
+        <item >Speothos vanaticus</item>
+        <item >Galago crassicaudataus</item>
+        <item >Tragelaphus scriptus</item>
+        <item >Potamochoerus porcus</item>
+        <item >Neotis denhami</item>
+        <item >Neotis denhami</item>
+        <item >Neotis denhami</item>
+        <item >unavailable</item>
+        <item >Papilio canadensis</item>
+        <item >Junonia genoveua</item>
+        <item >Coluber constrictor</item>
+
+
+    </string-array>
+
+
+</resources>

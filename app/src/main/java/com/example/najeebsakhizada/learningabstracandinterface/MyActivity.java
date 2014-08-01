@@ -12,6 +12,11 @@ import android.widget.ListView;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import com.example.najeebsakhizada.learningabstracandinterface.animals_adapter.DogAdapter;
+import com.example.najeebsakhizada.learningabstracandinterface.models.Animals;
+import com.example.najeebsakhizada.learningabstracandinterface.models.Dog;
+import com.example.najeebsakhizada.learningabstracandinterface.models.DogNames;
+
 import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
