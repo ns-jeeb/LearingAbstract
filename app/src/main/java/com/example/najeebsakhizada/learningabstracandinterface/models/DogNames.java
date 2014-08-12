@@ -3,8 +3,6 @@ package com.example.najeebsakhizada.learningabstracandinterface.models;
 import android.content.Context;
 import android.content.res.Resources;
 
-import com.example.najeebsakhizada.learningabstracandinterface.R;
-
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
@@ -20,7 +18,7 @@ public class DogNames {
 
         Resources res = context.getResources();
         mDogNames = new ArrayList<String>();
-        String[] dogNames = res.getStringArray(R.array.dog_names);
+        String[] dogNames = res.getStringArray(com.example.najeebsakhizada.learningabstracandinterface.R.array.dog_names);
 
         mDogNames = Arrays.asList(dogNames);
 
