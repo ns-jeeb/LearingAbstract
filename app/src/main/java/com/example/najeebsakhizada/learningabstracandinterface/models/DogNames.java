@@ -21,6 +21,7 @@ public class DogNames {
         String[] dogNames = res.getStringArray(com.example.najeebsakhizada.learningabstracandinterface.R.array.dog_names);
 
         mDogNames = Arrays.asList(dogNames);
+        String name = "something";
 
     }
     public List<String> getDogNames() {
